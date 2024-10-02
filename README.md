@@ -13,7 +13,7 @@ Workflow Reflection
 
 For this assignment, I used Git and GitHub to manage my files and version control. The steps I followed were:
 
-Initialized the repository locally using git init.
-Created a new branch for my work to avoid any changes to the main branch.
-Added my files and committed changes frequently with git add and git commit.
-Pushed my changes to my GitHub repository using git push.
+1. Initialized the repository locally using git init.
+2. Created a new branch for my work to avoid any changes to the main branch.
+3. Added my files and committed changes frequently with git add and git commit.
+4. Pushed my changes to my GitHub repository using git push.
