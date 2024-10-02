@@ -1,12 +1,11 @@
-
-
-#Jiahang Luo's Project
+# Jiahang Luo's Project
 
 Welcome to my repository! Below is a brief introduction about me and a reflection on my GitHub workflow experience for this assignment.
 
-About Me
+## About Me
 
-Hello! My name is Jiahang Luo, and I have a deep interest in managing long-term relationships and conducting academic research in this area. I am currently working on developing my technical skills and applying them to various projects. I also enjoy reading books like Pressured Economy, which offers insights into the modern economy.
+Hello! My name is **Jiahang Luo**, and I have a deep interest in managing long-term relationships and conducting academic research in this area. I am currently working on developing my technical skills and applying them to various projects. I also enjoy reading books like *Pressured Economy*, which offers insights into the modern economy.
+
 
 <img width="842" alt="image" src="https://github.com/user-attachments/assets/efde3557-d806-440c-9c5c-f41a3e2a3fd4">
 
