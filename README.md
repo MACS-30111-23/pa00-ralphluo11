@@ -1,4 +1,4 @@
-<img width="842" alt="image" src="https://github.com/user-attachments/assets/b64c277e-6895-421c-92a9-d1e92f9bf7b0"># PA 00
+
 
 For this assignment, you will submit TWO files -- the readme and the script file. 
 
