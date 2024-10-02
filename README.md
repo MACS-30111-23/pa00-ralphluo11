@@ -1,6 +1,6 @@
 
 
-Jiahang Luo's Project
+#Jiahang Luo's Project
 
 Welcome to my repository! Below is a brief introduction about me and a reflection on my GitHub workflow experience for this assignment.
 
